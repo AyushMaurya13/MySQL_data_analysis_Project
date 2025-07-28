@@ -53,7 +53,7 @@ This SQL project is designed to manage and analyze the functioning of a library 
 
 **Krishna Maurya**  
 🎓 B.Tech CSE (Data Science)   
-🌐 [LinkedIn](www.linkedin.com/in/ayush-kumar-maurya-a43914258k) | [GitHub](https://github.com/AyushMaurya13) [X](https://x.com/ayush_maur10241)
+🌐 [LinkedIn](www.linkedin.com/in/ayush-kumar-maurya-a43914258k) | [GitHub](https://github.com/AyushMaurya13) | [X](https://x.com/ayush_maur10241)
 
 
 
